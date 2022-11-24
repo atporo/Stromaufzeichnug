@@ -18,6 +18,8 @@ It should use the programmes and programming languages we learn in class.
 |------|------|------|------|
 | 2143 | 3214 | 1324 | 3142 |
 | 3214 | 1243 | 1432 | 1234 |
+| 3214 | 1243 | 1432 | 1234 |
+| 3214 | 1243 | 1432 | 1234 |
 
 
 ## Used program languagues
