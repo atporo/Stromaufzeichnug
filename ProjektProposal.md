@@ -14,23 +14,31 @@ Die 300%-ige Steigerung der Stromkosten ist nicht für jedermann leicht zu händ
 
 ### 3. Allgemeine Bedingungen und Einschränkungen
 
-    lkjdfäjf
+Bedingungen:
+
+Eine der wichtigsten Bedingungen sollte die leichte Aufzeichnung vom Stromverbrauch des eigenen Haushaltes sein.
+
+Einschränkungen:
+
+Einschränkungen ergeben sich zur Zeit hauptsächlich bei der Eingabe. Da nicht jeder Haushalt Smart Meter hat bzw. die Übertragung der Daten durch alte Stromästen noch nicht möglich ist. 
 
 ### 4. Projekt Ziele und System Konzepte
 
-    Das Ziel dieser Applikation ist es …
+Das Ziel dieser Applikation sollte sein, dass Haushalte ihren Stromverbrauch dokumentieren können und so mögliches Einsparungspotenzial evaluieren.
+In dieser Applikation werden auch mögliche Stromfresser erkannt. Stromspitzen sollten so erkannt und besser über den Tag aufgeteilt werden. 
+
 
 ### 5. Chancen und Risiken
 
-    asöfreäpgöklmr#
+asöfreäpgöklmr#
 
 ### 6. Planung
 
-    | Milestone            | Date        | Workpackage      |
-    | :---                 |    :----:   |        ---:      |
-    | projekt proposal     | 12 Dec 2022 | Here's this      |
-    | projekt assignment   | 00 Jan 2023 | And more         |   
-    | Database             | 00 Jan 2023 | And more         |
-    | Code                 | 00 Jan 2023 | And more         |
-    | projekt end          | 00 Jan 2023 | And more         |
+|Workpackage| Date        | Milestone      |
+| :---      |    :----:   |        ---:      |
+| WP 1      | 12 Dec 2022 | Projectproposal, projekt assignment      |
+| WP 2      | 15 Jan 2023 | Database         |   
+| WP 3      | 00 Jan 2023 | Surface         |
+| WP 4      | 00 Jan 2023 | Code         |
+| WP 5      | 00 Jan 2023 | Presentation and Code testing         |
 
